@@ -27,14 +27,6 @@ question_list = [
 ]
 
 
-#conf = [
-#    {'confirm': 'Do you want try again?', 'variant': [
-#        {'var': 'yes'},
-#        {'var': 'no'}
-#    ]}
-#]
-
-
 answ = 'yes'
 while answ == 'yes':
     corr_answ = 0
